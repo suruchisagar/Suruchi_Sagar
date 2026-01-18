@@ -45,7 +45,7 @@ const App = () => {
       live: "https://digital-wallet-pi.vercel.app/"
     },
     {
-      title: "Library Management System",
+      title: "LibraryHub",
       description: "A full-stack web application that allows users to book and manage study seats in libraries for specific durations with real-time availability.",
       highlights: [
         "Secure JWT-based authentication system",
