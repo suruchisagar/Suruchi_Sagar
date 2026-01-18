@@ -70,7 +70,7 @@ const App = () => {
       tech: ["React", "Tailwind CSS", "JavaScript"],
       status: "Live",
       github: "https://github.com/suruchisagar/Suruchi_Sagar",
-      live: "digital-wallet-pi.vercel.app/"
+      live: "https://suruchi-sagar.vercel.app/"
     },
     {
       title: "SketchHub",
@@ -83,7 +83,7 @@ const App = () => {
       ],
       tech: ["React", "TypeScript", "Tailwind CSS", "Turborepo", "NeonDB", "Prisma", "Canvas API"],
       status: "In Progress",
-      github: "hhttps://github.com/suruchisagar/SketchHub",
+      github: "https://github.com/suruchisagar/SketchHub",
       live: "https://github.com/suruchisagar/SketchHub"
     }
     
