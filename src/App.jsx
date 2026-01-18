@@ -17,7 +17,7 @@ const App = () => {
     name: "Suruchi Sagar",
     title: "Full Stack Developer",
     tagline: "Building scalable web applications with modern technologies",
-    email: "suruchisagar24@example.com",
+    email: "suruchisagar24@gmail.com",
     github: "github.com/suruchisagar",
     linkedin: "linkedin.com/in/suruchisagar24",
   };
