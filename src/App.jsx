@@ -478,7 +478,6 @@ const App = () => {
                 GitHub
               </a>
               
-              
               <a 
                 href={`https://${profile.linkedin}`}
                 target="_blank"
@@ -493,7 +492,6 @@ const App = () => {
             </div>
           </div>
         </section>
-
 
         {/* Footer */}
         <footer className="py-8 px-6 border-t border-slate-800/50">
